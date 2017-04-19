@@ -1,0 +1,26 @@
+{
+  "name": "fresh-bootstrap-table",
+  "homepage": "https://www.creative-tim.com/product/fresh-bootstrap-table",
+  "description": "Bower Upload of https://www.creative-tim.com/product/fresh-bootstrap-table",
+  "main": [
+    "css/fresh-bootstrap-table.css",
+    "js/bootstrap-table.js"
+  ],
+  "keywords": [
+    "fresh-bootstrap-table",
+    "fresh",
+    "bootstrap",
+    "table"
+  ],
+  "authors": [
+    "Creative Tim"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
